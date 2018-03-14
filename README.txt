@@ -22,7 +22,6 @@ Login in using one of the login details below.
 
 Assumptions:
 
-
 An admin will be added through the MongoDb while downloading. 
 
 Mongo code for this:
