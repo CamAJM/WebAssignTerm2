@@ -56,6 +56,8 @@ db.myusers.insert(
 
 
 
-Technical:
+Notes:
+
+Screenshots are provided as was requested in assignment brief.
 
 Bills are auto-added by the waiter
